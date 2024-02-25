@@ -1,8 +1,15 @@
 # 💫 About Me:
 
-Hey! I'm Den, an aspiring Software Engineer at the [University of Mindanao](https://umindanao.edu.ph) taking the Bachelor of Science in Computer Science course. I may have multiple interests in tech, but currently I'm focused on web development, particularly on the back-end side of things.
+Hey! I'm **Den**, an aspiring Software Engineer at the [University of Mindanao](https://umindanao.edu.ph) taking the Bachelor of Science in Computer Science course. I may have multiple interests in tech, but currently I'm focused on web development, particularly on the back-end side of things.
 
 I like keyboards, btw. :keyboard:
+
+# 🎉 Involvement:
+
+- [UM Enigma](https://facebook.com/um.enigma) **President** S.Y. 2023-2024
+- [CCE Skills Clinic](https://facebook.com/cceskillsclinicofficial) **President** S.Y. 2022-2023
+- Volunteered at [Google Developers Group Davao](https://facebook.com/gdgdavao) DevFest 2023
+- Volunteered at [AWS User Group PH](https://facebook.com/awscommunitydayph) AWS Community Day Davao 2023
 
 ## 🌐 Socials:
 
@@ -46,7 +53,7 @@ I like keyboards, btw. :keyboard:
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dkeithdj&theme=tokyonight&hide_border=true)<br/>
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dkeithdj&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+<!-- ### ✍️ Random Dev Quote -->
 
 <!-- ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 <!---->
