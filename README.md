@@ -41,21 +41,21 @@ I like keyboards, btw. :keyboard:
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=dkeithdj&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dkeithdj&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dkeithdj&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![Commits](https://github-readme-stats.vercel.app/api?username=dkeithdj&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dkeithdj&theme=tokyonight&hide_border=true)<br/>
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dkeithdj&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
+<!---->
+<!-- ### 😂 Random Dev Meme -->
+<!---->
+<!-- <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> -->
+<!---->
 
-### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=dkeithdj&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=dkeithdj&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <!--
 **dkeithdj/dkeithdj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
