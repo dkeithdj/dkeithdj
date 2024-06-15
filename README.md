@@ -1,22 +1,22 @@
-# 💫 About Me:
+# 💫 About Me
 
 Hey! I'm **Den**, an aspiring Software Engineer at the [University of Mindanao](https://umindanao.edu.ph) taking the Bachelor of Science in Computer Science course. I may have multiple interests in tech, but currently I'm focused on web development, particularly on the back-end side of things.
 
 I like keyboards, btw. :keyboard:
 
-# 🎉 Involvement:
+# 🎉 Involvement
 
 - [UM Enigma](https://facebook.com/um.enigma) **President** S.Y. 2023-2024
 - [CCE Skills Clinic](https://facebook.com/cceskillsclinicofficial) **President** S.Y. 2022-2023
 - Volunteered at [Google Developers Group Davao](https://facebook.com/gdgdavao) DevFest 2023
 - Volunteered at [AWS User Group PH](https://facebook.com/awscommunitydayph) AWS Community Day Davao 2023
 
-## 🌐 Socials:
+## 🌐 Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook)](https://facebook.com/dnrkth)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/denreikeith)
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -46,14 +46,13 @@ I like keyboards, btw. :keyboard:
 ![Void Linux](https://img.shields.io/badge/voidlinux-62b086?style=for-the-badge&logo=voidlinux)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 <!-- ![Commits](https://github-readme-stats.vercel.app/api?username=dkeithdj&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
 
