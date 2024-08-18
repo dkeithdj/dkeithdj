@@ -4,13 +4,6 @@ Hey! I'm **Den**, an aspiring Software Engineer at the [University of Mindanao](
 
 I like keyboards, btw. :keyboard:
 
-# 🎉 Involvement
-
-- [UM Enigma](https://facebook.com/um.enigma) **President** S.Y. 2023-2024
-- [CCE Skills Clinic](https://facebook.com/cceskillsclinicofficial) **President** S.Y. 2022-2023
-- Volunteered at [Google Developers Group Davao](https://facebook.com/gdgdavao) DevFest 2023
-- Volunteered at [AWS User Group PH](https://facebook.com/awscommunitydayph) AWS Community Day Davao 2023
-
 ## 🌐 Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook)](https://facebook.com/dnrkth)
