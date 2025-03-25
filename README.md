@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hey! I'm **Den**, an aspiring Software Engineer at the [University of Mindanao](https://umindanao.edu.ph) taking the Bachelor of Science in Computer Science course. I may have multiple interests in tech, but currently I'm focused on web development, particularly on the back-end side of things.
+I'm a Backend Engineer, tech volunteer, and a tinkerer. I am passionate about building production-grade systems and scalable architectures. I actively participate in the tech community, sharing my experience with others.
 
 I like keyboards, btw. :keyboard:
 
